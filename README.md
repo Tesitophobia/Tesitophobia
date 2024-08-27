@@ -16,7 +16,7 @@ Música: La música es una gran parte de mi vida y me inspira en mis proyectos.
 
 #### 🎓 Formación
 
-Productor Multimedia en el SENA.
+Tecnologo en Producción Multimedia en el SENA.
 
 Inglés hasta el nivel B1 en el Centro Colombo Americano.
 
