@@ -1,3 +1,5 @@
+![Banner](https://og-api.qbytes.dev/github/banner/Tesitophobia?text=Multimedia)
+
 ### ¡Hola! Soy Juan José Ramírez Pérez 👋
 
 Soy Productor Multimedia en formación en el SENA y desarrollador Frontend en proceso. Mi apodo en redes es Tesitophobia y puedes encontrarme en casi todas las redes sociales bajo ese nombre.
