@@ -1,4 +1,4 @@
-![Banner](https://og-api.qbytes.dev/github/banner/Tesitophobia?text=Multimedia)
+![Banner](https://og-api.qbytes.dev/github/banner/Tesitophobia?text=Productor)
 
 ### ¡Hola! Soy Juan José Ramírez Pérez 👋
 
